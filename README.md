@@ -1,5 +1,4 @@
 # hello-world
-Just another repository
 
 ---first edit---
 hello. I'm ShunyaSonoda.
