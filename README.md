@@ -16,3 +16,5 @@ githubとslackを連携してみました。
 githubとtwitterを連携しました。
 コミットするとつぶやかれます。
 ---2日目---
+
+konoyuと申します。
