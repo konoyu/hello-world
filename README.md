@@ -9,3 +9,8 @@ I'm beginner programmer of PHP,javascript&HTML.
 はじめてのgithub
 がんばりまんもす
 ---second edit---
+
+---2日目---
+githubとslackを連携してみました。
+英語がまだまだ慣れません。
+---2日目---
