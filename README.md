@@ -13,4 +13,6 @@ I'm beginner programmer of PHP,javascript&HTML.
 ---2日目---
 githubとslackを連携してみました。
 英語がまだまだ慣れません。
+githubとtwitterを連携しました。
+コミットするとつぶやかれます。
 ---2日目---
